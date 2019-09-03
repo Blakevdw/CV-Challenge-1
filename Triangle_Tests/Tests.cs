@@ -19,7 +19,7 @@ namespace Triangle_Tests {
             
             ra2 = new RightAngleTriangle("White", 7, 4);
             eq2 = new EquilateralTriangle("black", 8);
-        }d
+        }
         
  
         
