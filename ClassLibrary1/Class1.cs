@@ -29,27 +29,25 @@ namespace Class1
 
 		}
 
-		public void GetPermieter()
+		public int GetPermieter()
 		{
-			Side1Length + Side2Length + Side3Length + Side4Length;
+			return Side1Length + Side2Length + Side3Length + Side4Length;
 		}
 
 
 		public class Square : Quadrilateral
 		{
-			public void GetArea()
+			public int GetArea()
 			{
-				if ()
+				return Side1Length* Side1Length;
 			}
 		}
 
 		public class Rectangle : Quadrilateral
 		{
-			public void GetArea()
+			public int GetArea()
 			{
-
-				Side1Length* Side2Length;
-
+				return Side1Length * Side2Length;
 			}
 
 

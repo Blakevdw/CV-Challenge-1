@@ -1,0 +1,4 @@
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.csprojAssemblyReference.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.AssemblyInfoInputs.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.AssemblyInfo.cs

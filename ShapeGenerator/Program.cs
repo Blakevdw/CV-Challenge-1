@@ -5,20 +5,10 @@ namespace ShapeGenerator
 	class Program
 	{
 		static void Main(string[] args)
-		{ 
-			static int
+		{
 
-
-
-
-
-
-
-
-
-
-		
 			Console.WriteLine("Input your chosen shape, colour and length/area specifications!");
+
 
 			while (true)
 			{
@@ -53,14 +43,6 @@ namespace ShapeGenerator
 					Console.WriteLine("Invalid Input");
 					Console.ReadKey(true);
 				}
-
-
-
-				
-			
-
-
-
 			}
 		}
 	}

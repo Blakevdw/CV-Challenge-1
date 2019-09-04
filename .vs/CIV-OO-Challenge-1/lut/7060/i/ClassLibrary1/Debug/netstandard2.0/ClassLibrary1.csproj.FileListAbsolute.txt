@@ -1,0 +1,4 @@
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\.vs\CIV-OO-Challenge-1\lut\0\i\ClassLibrary1\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\.vs\CIV-OO-Challenge-1\lut\0\i\ClassLibrary1\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\.vs\CIV-OO-Challenge-1\lut\0\i\ClassLibrary1\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\.vs\CIV-OO-Challenge-1\lut\0\i\ClassLibrary1\Debug\netstandard2.0\ClassLibrary1.dll
