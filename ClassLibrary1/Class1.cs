@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace Class1
 {
 	public class Shape
@@ -32,7 +31,7 @@ namespace Class1
 
 		public void GetPermieter()
 		{
-			Side1Length + Side2Length + Side3Length + Side4Length
+			Side1Length + Side2Length + Side3Length + Side4Length;
 		}
 
 
@@ -49,7 +48,7 @@ namespace Class1
 			public void GetArea()
 			{
 
-				Side1Length * Side2Length
+				Side1Length* Side2Length;
 
 			}
 

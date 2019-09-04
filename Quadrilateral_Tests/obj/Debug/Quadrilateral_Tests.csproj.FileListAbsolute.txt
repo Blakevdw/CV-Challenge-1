@@ -1,0 +1,2 @@
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\Quadrilateral_Tests\obj\Debug\Quadrilateral_Tests.csprojAssemblyReference.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-master\CV-Challenge-1\Quadrilateral_Tests\obj\Debug\Quadrilateral_Tests.csproj.CoreCompileInputs.cache
